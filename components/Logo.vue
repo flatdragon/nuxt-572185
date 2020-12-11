@@ -18,7 +18,7 @@
 <script>
 export default {
   methods: {
-    name() {
+    name () {
       return 'NuxtLogo'
     }
   }
